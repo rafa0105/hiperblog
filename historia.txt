@@ -6,6 +6,8 @@ nacie en bogota colobia
 
 exporeimento 1
 
+exporeimento 2
+
 commit 1
 
 hoy hablarmeos de su vida y obra maestra
